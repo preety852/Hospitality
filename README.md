@@ -15,9 +15,9 @@ Enhanced Customer Satisfaction: By analyzing customer feedback, we identified ar
 
 Optimized Revenue Pricing Strategies: Data-driven approach allowed for dynamic pricing, resulting in higher revenues and better market positioning.
 
-Skills learnt from project
+# Skills learnt from project
 key metrices learnt:
-revenue
+ revenue
  RevPAR
  ADR
  DBRN
@@ -25,14 +25,14 @@ revenue
  DURN
  Realisation %
  occupancy and cancellation %
-power BI fundamentals
+# power BI fundamentals
 data cleaning and snowflake schema modelling
 learnt about page navigation, tool tip,conditional formatting
 created donut ,line,ribbon , line and clustered columns chart, matrix table.
 soft skills
 domain knowledge in hospitality
 understanding stakeholders requirement from mock up dashboard
-Repository Contents
+# Repository Contents
  project pdf: Contains dashboard pdf files
  insights: contians key insigths from dashboard
 recommendation: contains key recommendations from dashboard
