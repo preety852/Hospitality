@@ -18,13 +18,13 @@ Optimized Revenue Pricing Strategies: Data-driven approach allowed for dynamic p
 Skills learnt from project
 key metrices learnt:
 revenue
-# RevPAR
-# ADR
-# DBRN
-# DSRN
-# DURN
-# Realisation %
-# occupancy and cancellation %
+ RevPAR
+ ADR
+ DBRN
+ DSRN
+ DURN
+ Realisation %
+ occupancy and cancellation %
 power BI fundamentals
 data cleaning and snowflake schema modelling
 learnt about page navigation, tool tip,conditional formatting
